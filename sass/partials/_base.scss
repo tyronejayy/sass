@@ -1,0 +1,19 @@
+
+
+$primary-color: #bada55;
+$font-size1: 2.125em;
+$font-size2: 1.125em;
+$text-color: #f0f0;
+
+body {
+    background-color: $primary-color;
+
+    h1 {
+        font-size: $font-size1;
+    }
+
+    p {
+        font-size: $font-size2;
+        color: $text-color;
+    }
+}
